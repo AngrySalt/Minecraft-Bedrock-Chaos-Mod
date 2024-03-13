@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "Trippy",
+        "Description": "distorts camera and flashes it",
+        "Commands": [
+            "Effect @a nausea 60 1 true",
+            "Effect @a darkness 60 1 true"
+        ]
+    },
+    {
+        "Name": "Fling",
+        "Description": "shoots players up 20 blocks",
+        "Commands": [
+            "Effect @a levitation 1 20 true"
+        ]
+    },
+    {
+        "Name": "Template Choice",
+        "Description": "doesn't do anything, for testing purposes",
+        "Commands": []
+    }
+]
